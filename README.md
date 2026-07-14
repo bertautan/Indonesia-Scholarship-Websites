@@ -1,4 +1,4 @@
-# 🇮🇩 Indonesian Scholarship Websites
+# 🇮🇩 Indonesia Scholarship Websites
 Halo teman-teman! Ini adalah repositoriku yang isinya beberapa sumber beasiswa yang aku kumpulin dan sudah kupakai selama ini, juga yang mau kubagikan ke kalian. Semoga repositoriku bisa sedikit membantu teman-teman yang ingin mencari tahu informasi beasiswa. 😺
 
 EN: Hello Guys! This is my personal list of scholarship resources I have been gathering and using all this time that I wanted to share with you guys. I hope my repository can be a lil help for those who wanna find out scholarship information. 😺
