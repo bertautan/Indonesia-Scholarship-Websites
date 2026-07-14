@@ -3,7 +3,7 @@ Hello! This is my personal list of resources I have been gathering and using all
 
 ***
 
-## ** 🌐 List of websites:**
+## **🌐 List of websites:**
 
 - [Indbeasiswa.com](https://indbeasiswa.com/)
 - [Beasiswa.id](https://beasiswa.id/)
