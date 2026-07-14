@@ -1,10 +1,16 @@
 # 🇮🇩 Indonesian Scholarship Websites
-Hello! This is my personal list of resources I have been gathering and using all this time that I wanted to share with you guys.
+Halo teman-teman! Ini adalah repositoriku yang isinya beberapa sumber beasiswa yang aku kumpulin dan sudah kupakai selama ini, juga yang mau kubagikan ke kalian. Semoga repositoriku bisa sedikit membantu teman-teman yang ingin mencari tahu informasi beasiswa. 😺
+
+EN: Hello Guys! This is my personal list of scholarship resources I have been gathering and using all this time that I wanted to share with you guys. I hope my repository can be a little help for those who wannno find out scholarship information. 😺
 
 ***
+# **🌐 List of websites:**
 
-## **🌐 List of websites:**
-
+## A. Subscription-free & Tidak ada limitasi
 - [Indbeasiswa.com](https://indbeasiswa.com/)
 - [Beasiswa.id](https://beasiswa.id/)
+- [Schoters.com](https://www.schoters.com/id/beasiswa)
+
+## B. Free access dengan berlangganan di fitur lanjutan
 - [Luarkampus.id](https://luarkampus.id/)
+
