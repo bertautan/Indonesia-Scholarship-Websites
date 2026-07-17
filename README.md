@@ -6,11 +6,11 @@ EN: Hello Guys! This is my personal list of scholarship resources I have been ga
 ***
 # **🌐 List of websites:**
 
-## A. Subscription-free & Tidak ada limitasi
+## A. No Subscription
 - [Indbeasiswa.com](https://indbeasiswa.com/)
 - [Beasiswa.id](https://beasiswa.id/)
 - [Schoters.com](https://www.schoters.com/id/beasiswa)
 
-## B. Free access dengan berlangganan di fitur lanjutan
+## B. Free Access & Subscription for advanced features
 - [Luarkampus.id](https://luarkampus.id/)
 
